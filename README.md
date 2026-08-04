@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Prakash Patil</h1>
+<h1 align="center">Hi 👋, I'm Rahul Patil</h1>
 
 <h3 align="center">💻 .NET Full Stack Developer | ASP.NET Core | React.js | SQL Server</h3>
 
@@ -7,12 +7,12 @@ Passionate Software Developer from India with hands-on experience in developing 
 </p>
 
 <p align="center">
-  <a href="mailto:pratikpatil3739@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pratikpatil3739%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rahulspatil200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rahulspatil200%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/pratik-patil-157796330">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Patil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rahul-patil-software">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Patil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -124,6 +124,7 @@ Passionate Software Developer from India with hands-on experience in developing 
 - Postman
 - Docker
 - Azure
+
 ---
 
 # 🚀 Featured Project
@@ -184,11 +185,11 @@ Developed a Banking Management System using ASP.NET Core, React.js and SQL Serve
 
 📧 **Email**
 
-**pratikpatil3739@gmail.com**
+**rahulspatil200@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/pratik-patil-software
+https://www.linkedin.com/in/rahul-patil-software
 
 ---
 
